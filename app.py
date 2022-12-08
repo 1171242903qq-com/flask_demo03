@@ -177,11 +177,5 @@ def query_article():
     return "通过user对象查询所有文章成功！ "
 
 
-
-
-
-
-
-
 if __name__ == '__main__':
     app.run()
